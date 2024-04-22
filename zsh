@@ -1,1 +1,0 @@
-/Users/Feng/.oh-my-zsh
